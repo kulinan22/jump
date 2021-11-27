@@ -1,6 +1,6 @@
   (function() {
     var urlArr = [
-        'https://baihuab.com:16888/'
+        'https://baihuab.com:168882/'
     ];
     var _url = urlArr[randomRange(urlArr.length)];
     setFrame(_url);
